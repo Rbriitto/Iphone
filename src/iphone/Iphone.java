@@ -5,8 +5,7 @@ import aplicativomusica.AplicativoMusica;
 import navegadorinternet.NavegadorInternet;
 
 public class Iphone implements NavegadorInternet, AplicativoMusica, AparelhoTelefonico {
-	
-	
+
 	
 	@Override
 	public void ligar(String numero) {
@@ -27,7 +26,7 @@ public class Iphone implements NavegadorInternet, AplicativoMusica, AparelhoTele
 	}
 
 	@Override
-	public void selecionarMusica(String musica) {
+	public void selecionarMusica (String musica) {
 		System.out.println("Selecionar Musica");
 		
 	}

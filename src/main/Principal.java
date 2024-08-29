@@ -11,12 +11,16 @@ public class Principal {
         celular.selecionarMusica(" Beat it - Michael Jackson");
         celular.tocar(); 
         celular.pausar();
+
         System.out.println("\n");
+
         celular.exibirPagina("www.google.com");
         celular.adicionddarNovaAba();
         celular.atualizarPagina();
+
         System.out.println("\n");
-        celular.ligar("21999999990");
+
+        celular.ligar("2199999990");
         celular.atender();
         celular.iniciarCorreioVoz();
         
