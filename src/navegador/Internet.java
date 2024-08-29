@@ -6,7 +6,7 @@ public class Internet {
      System.out.println("Pagina:" + url);
     }
 
-    public void adicionarNovaAba() {
+    public void adicionddarNovaAba() {
     }
 
     public void atualizarPagina() {
