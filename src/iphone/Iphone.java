@@ -10,24 +10,25 @@ public class Iphone implements NavegadorInternet, AplicativoMusica, AparelhoTele
 	
 	@Override
 	public void ligar(String numero) {
-		// TODO Auto-generated method stub
+		System.out.println("Fazendo ligaçao");
 		
 	}
 
 	@Override
 	public void atender() {
-		// TODO Auto-generated method stub
+		System.out.println("Atendendo Ligação");
 		
 	}
 
 	@Override
 	public void iniciarCorreioVoz() {
-		// TODO Auto-generated method stub
+		System.out.println("...iniciando correio de voz");
 		
 	}
 
 	@Override
 	public void selecionarMusica(String musica) {
+		System.out.println("Selecionar Musica");
 		
 	}
 
@@ -45,20 +46,19 @@ public class Iphone implements NavegadorInternet, AplicativoMusica, AparelhoTele
 
 	@Override
 	public void exibirPagina(String url) {
-		// TODO Auto-generated method stub
+		System.out.println("Exibindo pagina");
 		
 	}
 
 	@Override
 	public void adicionddarNovaAba() {
-		// TODO Auto-generated method stub
+		System.out.println("+ Adicionando nova Aba");
 		
 	}
 
 	@Override
 	public void atualizarPagina() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Atualizando Pagina");
 	}
 		
  }
