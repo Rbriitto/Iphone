@@ -52,7 +52,7 @@ public class Iphone implements NavegadorInternet, AplicativoMusica, AparelhoTele
 
 	@Override
 	public void adicionddarNovaAba() {
-		System.out.println("+ Adicionando nova Aba");
+		System.out.println("Adicionar nova Aba");
 		
 	}
 

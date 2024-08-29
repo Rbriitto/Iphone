@@ -9,13 +9,13 @@ public class Principal {
         Iphone celular = new Iphone ();
         
         celular.selecionarMusica(" Beat it - Michael Jackson");
-        celular.tocar();
+        celular.tocar(); 
         celular.pausar();
-
+        System.out.println("\n");
         celular.exibirPagina("www.google.com");
         celular.adicionddarNovaAba();
         celular.atualizarPagina();
-
+        System.out.println("\n");
         celular.ligar("21999999990");
         celular.atender();
         celular.iniciarCorreioVoz();
