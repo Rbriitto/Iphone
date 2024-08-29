@@ -2,8 +2,8 @@
 
 Desafio da DIO para fazer um diagrama em UML.
 
-## Proposta 
-[Desafio](https://github.com/glysns/trilha-java-basico/desafios/poo/README.md)
+
+## [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
 1- Criar um diagrama UML que represente as funcionalidades descritas acima.
 
